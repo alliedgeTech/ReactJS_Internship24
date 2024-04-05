@@ -1,0 +1,44 @@
+/* CSS for the form */
+form {
+    max-width: 600px; /* Set maximum width for the form */
+    margin: 0 auto; /* Center the form horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* CSS for form groups and form controls */
+  .form-group {
+    margin-bottom: 15px; /* Add margin between form groups */
+  }
+  
+  /* CSS for labels */
+  label {
+    font-weight: bold;
+  }
+  
+  /* CSS for input fields */
+  .form-control {
+    width: 100%; /* Make input fields fill the container */
+    padding: 10px; /* Add padding to input fields */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* CSS for the submit button */
+  .btn-primary {
+    display: block; /* Make the button a block-level element */
+    width: 100%; /* Make the button fill the container */
+    padding: 10px; /* Add padding to the button */
+    background-color: #007bff; /* Set button background color */
+    color: #fff; /* Set text color */
+    border: none; /* Remove button border */
+    border-radius: 5px;
+    cursor: pointer; /* Add cursor pointer on hover */
+  }
+  
+  /* CSS for the checkbox */
+  .form-check-input {
+    margin-right: 5px; /* Add margin between checkbox and label */
+  }
+  

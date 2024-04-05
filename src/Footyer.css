@@ -1,0 +1,41 @@
+/* CSS for the footer */
+
+/* General styles */
+.text-muted {
+    color: #6c757d; /* Set text color to muted */
+  }
+  
+  /* Section: Social media */
+  .border-bottom {
+    border-bottom: 1px solid #dee2e6; /* Add border bottom */
+  }
+  
+  /* Section: Links */
+  .text-uppercase {
+    text-transform: uppercase; /* Convert text to uppercase */
+  }
+  
+  /* Grid column styles */
+  .col-md-3,
+  .col-lg-4,
+  .col-xl-3 {
+    margin-bottom: 1.5rem; /* Add margin bottom for smaller screens */
+  }
+  
+  .col-md-2,
+  .col-lg-2,
+  .col-xl-2 {
+    margin-bottom: 1.5rem; /* Add margin bottom for smaller screens */
+  }
+  
+  .col-md-4,
+  .col-lg-3,
+  .col-xl-3 {
+    margin-bottom: 1.5rem; /* Add margin bottom for smaller screens */
+  }
+  
+  /* Contact info styles */
+  .fas {
+    margin-right: 0.5rem; /* Add margin between icon and text */
+  }
+  
